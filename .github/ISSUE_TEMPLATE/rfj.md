@@ -1,8 +1,8 @@
 ---
 
-name: RFC  
+name: RFJ 
 about: Describe this issue template's purpose here.  
-title: 'RFC00 - '  
+title: 'RFJ00 - '  
 labels: ''  
 assignees: ''
 
