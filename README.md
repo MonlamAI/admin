@@ -1,6 +1,3 @@
-# Requests
-Project administration files
-
 # FY23 MonlamAI RFXs
 
 ## How-to RFXs
