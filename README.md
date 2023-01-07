@@ -15,6 +15,8 @@
 > ✨  བོད་ཀྱི་རྩོམ་རིག་ཁྲོམ་ར་འཕེལ་རྒྱས་གཏོང་ཕྱིར། 🚀 གནད་ཡོད་མི་སྣར་སྤྱོད་གོ་ཆེ་བའི་ལག་ཆ་དང་ལག་རྩལ་རྒྱུ་ཆ་བཅས་མཁོ་སྤྲོད་བྱ་རྒྱུ། <br>
 > ✨  Stimulating the life-cycle of Tibetan literature by 🚀 providing key actors with productive tools, skills and resources.
 
-- [🎯Q1 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
+- [🔁MT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
+- [💬STT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/2)
+- [👁️‍🗨️OCR Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/3)
 - [🚩Q1 Last-call](https://github.com/buda-base/BudaX-Admin/milestone/3)
 - [🎬 BudaX FY23 Action Roadmap](https://github.com/orgs/MonlamAI/projects/3)
