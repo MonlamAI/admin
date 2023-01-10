@@ -1,9 +1,8 @@
 ---
-
-name: RFC  
-about: Describe this issue template's purpose here.  
-title: 'RFC00 - '  
-labels: ''  
+name: RFC
+about: Fill out an RFC [Issues](https://github.com/MonlamAI/requests/issues)
+title: 'RFC00 - '
+labels: ''
 assignees: ''
 
 ---

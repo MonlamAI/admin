@@ -1,9 +1,8 @@
 ---
-
-name: RFJ 
-about: Describe this issue template's purpose here.  
-title: 'RFJ00 - '  
-labels: ''  
+name: RFJ
+about: Describe this issue template's purpose here.
+title: 'RFJ00 - '
+labels: ''
 assignees: ''
 
 ---
