@@ -1,6 +1,6 @@
 ---
 name: RFC
-about: Fill out an RFC [Issues](https://github.com/MonlamAI/requests/issues)
+about: Fill out an RFC here.
 title: 'RFC00 - '
 labels: ''
 assignees: ''

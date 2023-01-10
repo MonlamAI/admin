@@ -1,6 +1,6 @@
 ---
 name: RFJ
-about: Describe this issue template's purpose here.
+about: Fill out an RFJ here.
 title: 'RFJ00 - '
 labels: ''
 assignees: ''
